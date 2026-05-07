@@ -1,0 +1,25 @@
+[
+    {
+        "type": "correct",
+        "question": "What is Machine Learning?",
+        "answer": "Machine learning is a subset of AI that enables systems to learn from data."
+    },
+
+    {
+        "type": "partially_correct",
+        "question": "What is Machine Learning?",
+        "answer": "Machine learning helps computers learn."
+    },
+
+    {
+        "type": "incorrect",
+        "question": "What is Machine Learning?",
+        "answer": "Machine learning is a cooking method."
+    },
+
+    {
+        "type": "irrelevant",
+        "question": "What is Machine Learning?",
+        "answer": "I love watching movies."
+    }
+]

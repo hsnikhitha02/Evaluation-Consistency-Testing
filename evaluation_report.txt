@@ -1,0 +1,29 @@
+EVALUATION STABILITY REPORT
+
+Test Case: correct
+Scores: [9.17, 8.77, 8.97, 8.98, 9.42]
+Variance: 0.06
+
+Status: Stable
+
+Test Case: partially_correct
+Scores: [6.71, 5.87, 6.12, 5.51, 5.89]
+Variance: 0.196
+
+Status: Stable
+
+Test Case: incorrect
+Scores: [2.01, 1.55, 2.05, 1.96, 1.13]
+Variance: 0.156
+
+Status: Stable
+
+Test Case: irrelevant
+Scores: [0.49, 0.35, 0.1, 0.61, 1.12]
+Variance: 0.143
+
+Status: Stable
+
+
+Overall Conclusion:
+The evaluation system shows low variance and consistent scoring behavior.
